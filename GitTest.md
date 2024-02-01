@@ -1,5 +1,7 @@
 # Work with git
 
+Константин
+
 ## Lesson 1
 
 git add - add a version
