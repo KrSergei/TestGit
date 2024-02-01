@@ -21,4 +21,6 @@ ___
 
 git status - show current file status
 
+git branch - show all branchs in project
+
 ## Lesson2
