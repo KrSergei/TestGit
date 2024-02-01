@@ -25,4 +25,6 @@ git status - show current file status
 
 git branch - show all branchs in project
 
+git branch name_branch - create new branch
+
 ## Lesson2
