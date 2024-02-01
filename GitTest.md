@@ -1,5 +1,7 @@
 # Work with git
 
+## Lesson 1
+
 git add - add a version
 ___
 git commit -m "" - make commit with commentary
@@ -16,3 +18,5 @@ ___
 
 #### Korea's nature
 ![Korea's nature](https://vsegda-pomnim.com/uploads/posts/2022-04/1649134827_21-vsegda-pomnim-com-p-koreya-priroda-foto-21.jpg)
+
+## Lesson2
