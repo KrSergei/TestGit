@@ -19,6 +19,8 @@ ___
 #### Korea's nature
 ![Korea's nature](https://vsegda-pomnim.com/uploads/posts/2022-04/1649134827_21-vsegda-pomnim-com-p-koreya-priroda-foto-21.jpg)
 
+## Lesson2
+
 git init - initialisation git in choiced folder
 
 git status - show current file status
@@ -27,4 +29,4 @@ git branch - show all branchs in project
 
 branch
 
-## Lesson2
+git branch name_branch - create new branch
