@@ -1,5 +1,5 @@
 # Work with git
-
+Ты увяз в матрице
 ## Lesson 1
 
 git add - add a version
