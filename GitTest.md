@@ -1,5 +1,7 @@
 # Work with git
 
+Привет!
+
 ## Lesson 1
 
 git add - add a version
